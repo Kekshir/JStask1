@@ -56,3 +56,9 @@ let e = 15;
 let f = 2;
 let g = e+f;
 alert(g);
+
+//10
+let l = 10;
+let m = 2;
+let n = 5;
+alert (l+m+n);
