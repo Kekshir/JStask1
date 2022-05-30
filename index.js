@@ -50,3 +50,9 @@ alert(c+d);
 alert(c-d);
 alert(c*d);
 alert(c/d);
+
+//9
+let e = 15;
+let f = 2;
+let g = e+f;
+alert(g);
