@@ -62,3 +62,11 @@ let l = 10;
 let m = 2;
 let n = 5;
 alert (l+m+n);
+
+//11
+let k = 17;
+let o = 10;
+let p = k-o;
+let r = 7;
+let result = p + r;
+alert(result)
