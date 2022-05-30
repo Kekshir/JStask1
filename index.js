@@ -33,3 +33,8 @@ true + false //1
 null + 1//1
 undefined + 1//nan
 " \t \n" - 2//-2
+
+//6
+let a = 1;
+let b = 2;
+alert(a+b);
