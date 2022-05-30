@@ -35,6 +35,10 @@ undefined + 1//nan
 " \t \n" - 2//-2
 
 //6
-let a = 1;
-let b = 2;
+let a = +prompt ("Первое число?", 1);
+let b = +prompt ("Второе число?", 2);
 alert(a+b);
+
+//7
+let num = 3;
+alert(num);
