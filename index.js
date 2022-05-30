@@ -69,4 +69,8 @@ let o = 10;
 let p = k-o;
 let r = 7;
 let result = p + r;
-alert(result)
+alert(result);
+
+//12
+let q = 3;
+alert(q**2);
