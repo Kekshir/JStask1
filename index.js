@@ -42,3 +42,11 @@ alert(a+b);
 //7
 let num = 3;
 alert(num);
+
+//8
+let c = 10;
+let d = 2;
+alert(c+d);
+alert(c-d);
+alert(c*d);
+alert(c/d);
