@@ -1,17 +1,9 @@
+//1
 let admin, name;
 name = 'John';
 admin = name;
 alert(admin);
 
-
+//2
 let ourPlanet = 'Earth';
 let currentUserName = 'Anel';
-
-
-let name = "Ilya";
-
-alert( `hello ${1}` ); // ?
-
-alert( `hello ${"name"}` ); // ?
-
-alert( `hello ${name}` ); // ?
